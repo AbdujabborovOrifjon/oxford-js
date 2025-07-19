@@ -40,3 +40,21 @@
 
 // console.log(style);
 
+
+
+// 4 
+
+// function suminput() {
+//     let arr = []
+//     sum = 0
+//     while (true) {
+//         let value = prompt("son kiritin")
+//         if (value && !value.includes("")) arr.push(value) 
+//             else break
+        
+//     }
+//     for(let value of arr) sum += Number(value){
+//         console.log(value);
+        
+//     }
+// }

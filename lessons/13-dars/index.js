@@ -18,28 +18,28 @@
 
 // let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 
-// for(let value of arr){
-//     console.log(value);
+for(let value of arr){
+    console.log(value);
     
-// }
+}
 
-// for(let value in arr){
-//     console.log(value);
+for(let value in arr){
+    console.log(value);
     
-// }
+}
 
 
 
-// let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-// for (let a = 0; a < array.length; a++) {
+let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+for (let a = 0; a < array.length; a++) {
 
-// }
-// if (arr % 2 === 19) {
-//     console.log("tub sonlar");
+}
+if (arr % 2 === 19) {
+    console.log("tub sonlar");
 
-// }
+}
 
-// console.log(arr);
+console.log(arr);
 
 // ================================================================================================
 

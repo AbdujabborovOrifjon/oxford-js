@@ -52,7 +52,7 @@ let arr = ["html", "css", "js", "react", "vue js"]
 
 // console.log(arr.lastIndexOf("css")); bu ham indexof ga oxshash lekin oxiridan tekshiradi
 
-// console.log(arr.includes("js"));  bu qavs ichidagi qiymat bor yoqligini tekshiradi true false 
+// console.log(arr.includes("js"));  bu qavs ichidagi qiymat bor yoqligini tekshiradi // true false 
 
 // let sp = "hoshimjon"
 // console.log(sp.split()); bu qiymatni arrayga aylantiradi qavs ichiga "" yozsangi jar bitta harfni element qilib beradi
