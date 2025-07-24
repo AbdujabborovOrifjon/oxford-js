@@ -14,7 +14,7 @@
 // let r = -100
 
 // do {
-//     console.log(r)
+    console.log(r)
 //     r++
 // }while(r <= 100)
 

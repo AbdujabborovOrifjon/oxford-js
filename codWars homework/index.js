@@ -24,7 +24,7 @@ function positiveSum(arr) {
 }
 
 
-// 3  savol javoblari
+// 4  savol javoblari
 
 function booleanToString(b){
   return b ? 'true' : 'false';
